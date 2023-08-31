@@ -1,0 +1,112 @@
+.back{
+    background-color: #F31559;
+}
+.navbar-nav{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    padding-top: 50px;
+}
+.navbar-brand{
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: xx-large !important;
+    color: white !important;
+    padding-right: 900px !important;
+    padding-top: 50px !important;
+    margin-left: 200px !important;
+}
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    color: white;
+    margin-left: 210px;
+    width: 500px;
+}
+.ios{
+    margin-left: 210px;
+}
+.android{
+    margin-left: 140px;
+    position: absolute;
+    top: 289px;
+}
+.iphone{
+    position: relative;
+    margin-top: -250px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 2%;
+    transform: rotate(25deg);
+    z-index: 1;
+    height: 480px;
+}
+.white{
+    position: relative;
+    background-color:white ;
+    z-index: 2;
+    height: 500px;
+    padding: auto 0;
+}
+.easy{
+    text-align: center;
+    position: relative;
+    top: 100px;
+    right: 400px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+.fa-solid{
+    font-size: 4rem;
+}
+p{
+    color: grey;
+}
+.circle{
+    text-align: center;
+    position: relative;
+    top: -47.5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+.fa-regular{
+    font-size: 4rem;
+}
+.heart{
+    text-align: center;
+    position: relative;
+    top: -194px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    left: 400px;
+}
+.doground{
+    background-color: #E25E3E;
+    height: 100vh;
+}
+.feedback{
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    position: relative;
+    top: 100px;
+    width: 800px;
+    left: 300px;
+}
+.review{
+    border-radius: 50%;
+    position: relative;
+    top: 150px;
+    left: 550px;
+}
+.about{
+    position: relative;
+    top: 150px;
+    left: 550px;
+    color: white;
+}
+#press{
+        position: relative;
+        top: 350px;
+        left: 100px;
+        height: fit-content;
+}
