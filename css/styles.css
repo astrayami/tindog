@@ -94,19 +94,104 @@ p{
 }
 .review{
     border-radius: 50%;
-    position: relative;
-    top: 150px;
-    left: 550px;
+    margin-top: 200px;
+    margin-left: 550px;
 }
 .about{
-    position: relative;
-    top: 150px;
-    left: 550px;
     color: white;
+    position: relative;
+    top: 100px;
 }
 #press{
         position: relative;
-        top: 350px;
+        top: 150px;
         left: 100px;
         height: fit-content;
+}
+.testimonial-text{
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    position: relative;
+    top: 100px;
+    width: 800px;
+    left: 300px;color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.price{
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top: 50px;
+    font-size: 3rem;
+    font-weight: 500;
+}
+.talk{
+    text-align: center;
+    position: relative;
+    margin-top: 80px;
+}
+.card-body{
+    height: 43vh;
+    text-align: center;
+}
+.card-title{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    height: 5vh;
+    width: auto;
+}
+.one{
+    position: relative;
+    left: 100px;
+    display: inline-block;
+}
+.two{
+    position: relative;
+    left: 200px;
+    display: inline-block;
+}
+.three{
+    position: relative;
+    left: 300px;
+    display: inline-block;
+}
+.ending{
+    background-color: #F31559;
+    height: 400px;
+}
+.theme{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+    position: relative;
+    top: 100px;
+}
+.buttom{
+    position: relative;
+    top: 180px;
+    left: 600px;
+}
+.foot{
+    text-align: center;
+}
+.facebook{
+    display: inline-block;
+    width: 20px;
+}
+.twitter{
+    display: inline-block;
+    width: 20px;
+}
+.instagram{
+    display: inline-block;
+    width: 20px;
+}
+.email{
+    display: inline-block;
+    width: 20px;
 }
